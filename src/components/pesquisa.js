@@ -11,6 +11,7 @@ export default props =>(
         </InputGroupAddon>
       </InputGroup>
 
+        
             <hr/>
         <Table dark>
             <thead>
